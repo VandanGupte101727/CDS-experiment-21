@@ -85,6 +85,6 @@ OUTPUT:-<br>
 ![exp21](https://github.com/VandanGupte101727/CDS-experiment-21/blob/main/Screenshot%202024-10-21%20at%2011.40.18%20PM.png)<br>
 
 2).<br>
-1[exp21](https://github.com/VandanGupte101727/CDS-experiment-21/blob/main/Screenshot%202024-10-22%20at%2012.42.03%20PM.png)<br>
+![exp21](https://github.com/VandanGupte101727/CDS-experiment-21/blob/main/Screenshot%202024-10-22%20at%2012.42.03%20PM.png)<br>
 
 Conclusion:-In this experiment we learnt and implemented searching algorithms.
